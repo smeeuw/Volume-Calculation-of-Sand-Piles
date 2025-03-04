@@ -1,0 +1,91 @@
+#map,
+#overlay {
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+#map {
+  z-index: 8;
+}
+
+#overlay {
+  background: rgba(0, 120, 0, 1);
+  padding: 30px;
+  z-index: 7;
+}
+
+.progress-container {
+  margin-top: 20px;
+}
+
+.form-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.form-group {
+  position: relative;
+}
+
+.input-group {
+  display: flex;
+  align-items: center;
+}
+
+.question-mark {
+  margin-left: 5px; /* space between icon and question mark*/
+  cursor: pointer;
+}
+
+.invalid-feedback {
+  display: none;
+  color: #dc3545;
+}
+
+.form-control.is-invalid {
+  border-color: #dc3545;
+}
+
+#polygon-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#polygon-list li {
+  padding: 10px 15px;
+  margin: 5px 0;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  color: #000;
+  display: flex;
+  align-items: center;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+#polygon-list li:hover {
+  background-color: #007bff;
+  color: #fff;
+}
+
+#polygon-list li .number-circle {
+  background-color: #000;
+  color: #fff;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 15px;
+  font-weight: bold;
+}
+
+#polygon-list li .data {
+  display: flex;
+  flex-direction: column;
+}

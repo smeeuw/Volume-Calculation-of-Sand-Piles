@@ -1,7 +1,9 @@
-# Volume Determination of Bulk Material Piles
+# Photogrammetry-Based Segmentation and Volume Calculation of Homogeneous Sand Piles
 
 This GitLab repository contains the code for the paper: **Photogrammetry-Based Segmentation and Volume
-Calculation of Homogeneous Sand Piles**. Below are the system requirements, setup details, and a detailed description of the literature review.
+Calculation of Homogeneous Sand Piles** which was presented at the IEEE 4th International Conference on Computing and Machine Intelligence (ICMI 2025, Michigan, USA) on April 05-06, 2025.
+
+Below are the system requirements, setup details, and a detailed description of the literature review.
 
 ## System Requirements
 **Operating System**: Ubuntu 22.04 LTS (tested exclusively on this OS)  

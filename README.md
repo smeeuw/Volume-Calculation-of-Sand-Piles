@@ -13,15 +13,15 @@ Below are the system requirements, setup details, and a detailed description of 
 
 ## Setup for Fetching the Project
 1. Install Git [(Guide to installing Git)](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-2. Clone the repository:
-   - Using HTTPS:
-     ```bash
-     git clone https://gitlab.uni-oldenburg.de/xizu0720/quarzsandhaufen-volumen.git /path/to/your/directory
-     ```
-   - Using SSH:
-     ```bash
-     git clone git@gitlab.uni-oldenburg.de:xizu0720/quarzsandhaufen-volumen.git /path/to/your/directory
-     ```
+2. Clone the repository.
+
+---
+
+
+## Please note: Availability of further test files in the cloud
+Due to the file size, additional test files are already available for download in the following cloud directory:
+https://cloud.uol.de/s/jpqS5niq3HcBaAt
+Directories that are dependent on the prior integration of these files during execution are identified by an “Installation_Note” file
 
 ---
 

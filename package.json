@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@types/jszip": "^3.4.1",
+    "georaster": "^1.6.0",
+    "georaster-layer-for-leaflet": "^3.10.0",
+    "jszip": "^3.10.1",
+    "leaflet": "^1.9.4",
+    "proj4": "^2.11.0",
+    "require": "^2.4.20",
+    "sidebar-v2": "^0.4.0"
+  }
+}

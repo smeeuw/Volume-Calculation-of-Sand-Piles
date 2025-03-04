@@ -1,0 +1,1 @@
+{"avg_mask_iou": 0.8735167307238424, "avg_box_iou": 0.8645560834556818, "avg_precision_box": 0.8823529411764706, "avg_precision_mask": 0.8529411764705882, "avg_recall_box": 0.8939393939393939, "avg_recall_mask": 0.8636363636363636, "f1_score_box": 0.8881083293297768, "f1_score_mask": 0.8582554017153394}
